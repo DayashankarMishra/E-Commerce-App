@@ -215,7 +215,7 @@ const Signup = () => {
                 Powered by_
                 <a
                   href="javascript:void(0)"
-                  className="font-bold text-md md:text-2xl text-black hover:text-blue-400 dark:text-red-600 dark:hover:text-red-600"
+                  className="font-bold text-md md:text-2xl text-black hover:text-blue-400  "
                 >
                   Dayashankar Mishra
                 </a>
