@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    z-index: 99;
+    
+} */
+
+.navbar{
+    box-shadow: 0px 0px 15px 8px rgb(7, 252, 170);
+}
+
+.signup{
+    background-image: url(https://images.pexels.com/photos/5625008/pexels-photo-5625008.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    border-radius: none !important;
+}
+.login{
+    background-image: url(https://images.pexels.com/photos/5625012/pexels-photo-5625012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    border-radius: none !important;
+    
+}
